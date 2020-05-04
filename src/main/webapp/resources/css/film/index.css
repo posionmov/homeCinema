@@ -1,0 +1,21 @@
+.txtArea {
+    resize: none;
+    width: 100%;
+}
+
+.body {
+    background-color: #eee;
+}
+
+.fileName {
+    visibility: hidden;
+}
+
+.btnBack {
+    margin-top: 1%;
+}
+
+.txt-area {
+    resize: none;
+    background-color: white;
+}
